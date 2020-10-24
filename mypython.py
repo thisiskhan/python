@@ -1,5 +1,6 @@
 name = input("What is your name? ")
 age = input("What is your age?")
+day  = input("Dou you remmember the day?") 
 temp = int(input( name + " what is the terprature out there? "))
 
 if temp >= 30:
